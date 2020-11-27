@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/netflex/static/js/main.30a6d5ae.chunk.js",
-    "main.js.map": "/netflex/static/js/main.30a6d5ae.chunk.js.map",
-    "runtime-main.js": "/netflex/static/js/runtime-main.4e5a3842.js",
-    "runtime-main.js.map": "/netflex/static/js/runtime-main.4e5a3842.js.map",
-    "static/js/2.3b9d45f8.chunk.js": "/netflex/static/js/2.3b9d45f8.chunk.js",
-    "static/js/2.3b9d45f8.chunk.js.map": "/netflex/static/js/2.3b9d45f8.chunk.js.map",
-    "static/js/3.1b85dcd4.chunk.js": "/netflex/static/js/3.1b85dcd4.chunk.js",
-    "static/js/3.1b85dcd4.chunk.js.map": "/netflex/static/js/3.1b85dcd4.chunk.js.map",
+    "main.js": "/netflex/static/js/main.02972d49.chunk.js",
+    "main.js.map": "/netflex/static/js/main.02972d49.chunk.js.map",
+    "runtime-main.js": "/netflex/static/js/runtime-main.4f4910b5.js",
+    "runtime-main.js.map": "/netflex/static/js/runtime-main.4f4910b5.js.map",
+    "static/js/2.517db815.chunk.js": "/netflex/static/js/2.517db815.chunk.js",
+    "static/js/2.517db815.chunk.js.map": "/netflex/static/js/2.517db815.chunk.js.map",
+    "static/js/3.7a764ea8.chunk.js": "/netflex/static/js/3.7a764ea8.chunk.js",
+    "static/js/3.7a764ea8.chunk.js.map": "/netflex/static/js/3.7a764ea8.chunk.js.map",
     "index.html": "/netflex/index.html",
-    "static/js/2.3b9d45f8.chunk.js.LICENSE.txt": "/netflex/static/js/2.3b9d45f8.chunk.js.LICENSE.txt"
+    "static/js/2.517db815.chunk.js.LICENSE.txt": "/netflex/static/js/2.517db815.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e5a3842.js",
-    "static/js/2.3b9d45f8.chunk.js",
-    "static/js/main.30a6d5ae.chunk.js"
+    "static/js/runtime-main.4f4910b5.js",
+    "static/js/2.517db815.chunk.js",
+    "static/js/main.02972d49.chunk.js"
   ]
 }
